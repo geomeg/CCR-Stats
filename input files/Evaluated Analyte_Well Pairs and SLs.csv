@@ -1,0 +1,136 @@
+Location ,Chemical,fraction,MCL.RSL
+CCR-AP-1R,"Antimony, Total",T,0.006
+CCR-AP-7,"Antimony, Total",T,0.006
+CCR-AP-9,"Antimony, Total",T,0.006
+CCR-AP-2,"Antimony, Total",T,0.006
+CCR-AP-3,"Antimony, Total",T,0.006
+CCR-AP-4R,"Antimony, Total",T,0.006
+CCR-AP-5,"Antimony, Total",T,0.006
+CCR-AP-6,"Antimony, Total",T,0.006
+CCR-AP-8,"Antimony, Total",T,0.006
+CCR-AP-1R,"Arsenic, Total",T,0.01
+CCR-AP-7,"Arsenic, Total",T,0.01
+CCR-AP-9,"Arsenic, Total",T,0.01
+CCR-AP-2,"Arsenic, Total",T,0.01
+CCR-AP-3,"Arsenic, Total",T,0.01
+CCR-AP-4R,"Arsenic, Total",T,0.01
+CCR-AP-5,"Arsenic, Total",T,0.01
+CCR-AP-6,"Arsenic, Total",T,0.01
+CCR-AP-8,"Arsenic, Total",T,0.01
+CCR-AP-1R,"Barium, Total",T,2
+CCR-AP-7,"Barium, Total",T,2
+CCR-AP-9,"Barium, Total",T,2
+CCR-AP-2,"Barium, Total",T,2
+CCR-AP-3,"Barium, Total",T,2
+CCR-AP-4R,"Barium, Total",T,2
+CCR-AP-5,"Barium, Total",T,2
+CCR-AP-6,"Barium, Total",T,2
+CCR-AP-8,"Barium, Total",T,2
+CCR-AP-1R,"Beryllium, Total",T,0.004
+CCR-AP-7,"Beryllium, Total",T,0.004
+CCR-AP-9,"Beryllium, Total",T,0.004
+CCR-AP-2,"Beryllium, Total",T,0.004
+CCR-AP-3,"Beryllium, Total",T,0.004
+CCR-AP-4R,"Beryllium, Total",T,0.004
+CCR-AP-5,"Beryllium, Total",T,0.004
+CCR-AP-6,"Beryllium, Total",T,0.004
+CCR-AP-8,"Beryllium, Total",T,0.004
+CCR-AP-1R,"Cadmium, Total",T,0.005
+CCR-AP-7,"Cadmium, Total",T,0.005
+CCR-AP-9,"Cadmium, Total",T,0.005
+CCR-AP-2,"Cadmium, Total",T,0.005
+CCR-AP-3,"Cadmium, Total",T,0.005
+CCR-AP-4R,"Cadmium, Total",T,0.005
+CCR-AP-5,"Cadmium, Total",T,0.005
+CCR-AP-6,"Cadmium, Total",T,0.005
+CCR-AP-8,"Cadmium, Total",T,0.005
+CCR-AP-1R,"Chromium, Total",T,0.1
+CCR-AP-7,"Chromium, Total",T,0.1
+CCR-AP-9,"Chromium, Total",T,0.1
+CCR-AP-2,"Chromium, Total",T,0.1
+CCR-AP-3,"Chromium, Total",T,0.1
+CCR-AP-4R,"Chromium, Total",T,0.1
+CCR-AP-5,"Chromium, Total",T,0.1
+CCR-AP-6,"Chromium, Total",T,0.1
+CCR-AP-8,"Chromium, Total",T,0.1
+CCR-AP-1R,"Cobalt, Total",T,0.006
+CCR-AP-7,"Cobalt, Total",T,0.006
+CCR-AP-9,"Cobalt, Total",T,0.006
+CCR-AP-2,"Cobalt, Total",T,0.006
+CCR-AP-3,"Cobalt, Total",T,0.006
+CCR-AP-4R,"Cobalt, Total",T,0.006
+CCR-AP-5,"Cobalt, Total",T,0.006
+CCR-AP-6,"Cobalt, Total",T,0.006
+CCR-AP-8,"Cobalt, Total",T,0.006
+CCR-AP-1R,Fluoride,T,4
+CCR-AP-7,Fluoride,T,4
+CCR-AP-9,Fluoride,T,4
+CCR-AP-2,Fluoride,T,4
+CCR-AP-3,Fluoride,T,4
+CCR-AP-4R,Fluoride,T,4
+CCR-AP-5,Fluoride,T,4
+CCR-AP-6,Fluoride,T,4
+CCR-AP-8,Fluoride,T,4
+CCR-AP-1R,"Lead, Total",T,0.015
+CCR-AP-7,"Lead, Total",T,0.015
+CCR-AP-9,"Lead, Total",T,0.015
+CCR-AP-2,"Lead, Total",T,0.015
+CCR-AP-3,"Lead, Total",T,0.015
+CCR-AP-4R,"Lead, Total",T,0.015
+CCR-AP-5,"Lead, Total",T,0.015
+CCR-AP-6,"Lead, Total",T,0.015
+CCR-AP-8,"Lead, Total",T,0.015
+CCR-AP-1R,"Lithium, Total",T,0.04
+CCR-AP-7,"Lithium, Total",T,0.04
+CCR-AP-9,"Lithium, Total",T,0.04
+CCR-AP-2,"Lithium, Total",T,0.04
+CCR-AP-3,"Lithium, Total",T,0.04
+CCR-AP-4R,"Lithium, Total",T,0.04
+CCR-AP-5,"Lithium, Total",T,0.04
+CCR-AP-6,"Lithium, Total",T,0.04
+CCR-AP-8,"Lithium, Total",T,0.04
+CCR-AP-1R,"Mercury, Total",T,0.002
+CCR-AP-7,"Mercury, Total",T,0.002
+CCR-AP-9,"Mercury, Total",T,0.002
+CCR-AP-2,"Mercury, Total",T,0.002
+CCR-AP-3,"Mercury, Total",T,0.002
+CCR-AP-4R,"Mercury, Total",T,0.002
+CCR-AP-5,"Mercury, Total",T,0.002
+CCR-AP-6,"Mercury, Total",T,0.002
+CCR-AP-8,"Mercury, Total",T,0.002
+CCR-AP-1R,"Molybdenum, Total",T,0.1
+CCR-AP-7,"Molybdenum, Total",T,0.1
+CCR-AP-9,"Molybdenum, Total",T,0.1
+CCR-AP-2,"Molybdenum, Total",T,0.1
+CCR-AP-3,"Molybdenum, Total",T,0.1
+CCR-AP-4R,"Molybdenum, Total",T,0.1
+CCR-AP-5,"Molybdenum, Total",T,0.1
+CCR-AP-6,"Molybdenum, Total",T,0.1
+CCR-AP-8,"Molybdenum, Total",T,0.1
+CCR-AP-1R,Radium-226 & 228,N,5
+CCR-AP-7,Radium-226 & 228,N,5
+CCR-AP-9,Radium-226 & 228,N,5
+CCR-AP-2,Radium-226 & 228,N,5
+CCR-AP-3,Radium-226 & 228,N,5
+CCR-AP-4R,Radium-226 & 228,N,5
+CCR-AP-5,Radium-226 & 228,N,5
+CCR-AP-6,Radium-226 & 228,N,5
+CCR-AP-8,Radium-226 & 228,N,5
+CCR-AP-1R,"Selenium, Total",T,0.05
+CCR-AP-7,"Selenium, Total",T,0.05
+CCR-AP-9,"Selenium, Total",T,0.05
+CCR-AP-2,"Selenium, Total",T,0.05
+CCR-AP-3,"Selenium, Total",T,0.05
+CCR-AP-4R,"Selenium, Total",T,0.05
+CCR-AP-5,"Selenium, Total",T,0.05
+CCR-AP-6,"Selenium, Total",T,0.05
+CCR-AP-8,"Selenium, Total",T,0.05
+CCR-AP-1R,"Thallium, Total",T,0.002
+CCR-AP-7,"Thallium, Total",T,0.002
+CCR-AP-9,"Thallium, Total",T,0.002
+CCR-AP-2,"Thallium, Total",T,0.002
+CCR-AP-3,"Thallium, Total",T,0.002
+CCR-AP-4R,"Thallium, Total",T,0.002
+CCR-AP-5,"Thallium, Total",T,0.002
+CCR-AP-6,"Thallium, Total",T,0.002
+CCR-AP-8,"Thallium, Total",T,0.002
